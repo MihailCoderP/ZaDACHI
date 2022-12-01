@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import json
 file = open('input 10.2.json', 'r')
 arr = json.load(file)
